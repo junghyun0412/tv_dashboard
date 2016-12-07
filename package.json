@@ -1,0 +1,56 @@
+{
+  "name": "tv_dashboard",
+  "version": "1.0.0",
+  "description": "AT&T Digital Experience 9th Floor TV Dashboard App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Jay Lee",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.18.2",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-jshint": "^2.0.4",
+    "gulp-less": "^3.3.0",
+    "gulp-livereload": "^3.8.1",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-minify-html": "^1.0.6",
+    "gulp-nodemon": "^2.2.1",
+    "gulp-sass": "^2.3.2",
+    "gulp-uglify": "^2.0.0",
+    "gulp-watch": "^4.3.11",
+    "jshint": "^2.9.4"
+  },
+  "dependencies": {
+    "express": "^4.14.0",
+    "body-parser": "^1.15.2",
+    "browser-sync": "^2.18.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-less": "^3.3.0",
+    "gulp": "^3.9.1",
+    "gulp-livereload": "^3.8.1",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-minify-html": "^1.0.6",
+    "gulp-jshint": "^2.0.4",
+    "gulp-nodemon": "^2.2.1",
+    "gulp-sass": "^2.3.2",
+    "gulp-uglify": "^2.0.0",
+    "method-override": "^2.3.7",
+    "gulp-watch": "^4.3.11",
+    "jshint": "^2.9.4",
+    "moment": "^2.17.1",
+    "request": "^2.79.0",
+    "mssql": "^3.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/junghyun0412/tv_dashboard.git"
+  },
+  "bugs": {
+    "url": "https://github.com/junghyun0412/tv_dashboard/issues"
+  },
+  "homepage": "https://github.com/junghyun0412/tv_dashboard#readme"
+}
